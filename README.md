@@ -1,2 +1,3 @@
-# atmega328p-ota-via-esp12e
-Ota for atmega328p via esp12e
+# Atmega328p OTA via ESP-12E
+
+Wireless Upload of Hex File in Atmega328-p with the help of esp-12e
